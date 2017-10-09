@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{271E4775-248B-2A7D-81C7-310B90C96DF7}") = "network sync demo", "Assembly-CSharp.csproj", "{4CBA3346-9C55-B3C4-6B42-E6AA9E3F48F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBA3346-9C55-B3C4-6B42-E6AA9E3F48F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBA3346-9C55-B3C4-6B42-E6AA9E3F48F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBA3346-9C55-B3C4-6B42-E6AA9E3F48F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBA3346-9C55-B3C4-6B42-E6AA9E3F48F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
